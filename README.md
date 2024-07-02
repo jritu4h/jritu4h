@@ -33,10 +33,10 @@ I am a passionate web developer with expertise in React, Node.js, Express.js, an
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
   <a href="https://github.com/jritu4h/repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jritu4h&repo=repo-2&theme=radical" alt="Repo 2" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
   <a href="https://github.com/jritu4h/repo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jritu4h&repo=repo-3&theme=radical" alt="Repo 3" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
 </p>
 
