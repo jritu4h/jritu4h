@@ -57,15 +57,16 @@
 ---
 
 <!-- Example Readme.md for a Project -->
-# Project Name
+# Foronce
 
 ## Project Overview
-- This project solves [describe the problem your project solves].
+-Great! Could you please describe the specific problem that "foronce" solves? This will help complete the short description.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Admin Penel
+- Add Products
+- Manage Users
+- Buy Products
 
 ## Technologies Used
 - React
@@ -76,4 +77,4 @@
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jritu4h/repository-name.git
+   git clone https://github.com/jritu4h/shopping-care
