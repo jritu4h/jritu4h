@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-image-url.com/profile-image.png](https://avatars.githubusercontent.com/u/155256172?v=4)" alt="Profile Image" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/155256172?v=4"  alt="Profile Image" width="200" />
 </p>
 <p align="center">
   <img src="https://your-image-url.com/banner-image.png" alt="Banner Image" width="800" />
