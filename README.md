@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/155256172?v=4"  alt="Profile Image" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/155256172?v=4" alt="Profile Image" width="200" style="border-radius: 50%;" />
 </p>
 <p align="center">
   <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" width="800" />
