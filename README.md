@@ -1,4 +1,5 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jritu4h/images/main/cropped_image.png" width="200" style="border-radius: 50%;" />
 <p align="center">
   <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" width="800" />
 </p>
