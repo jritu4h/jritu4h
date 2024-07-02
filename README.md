@@ -49,7 +49,7 @@
   <a href="https://github.com/jritu4h/b9a11-server-side">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
-  <a href="https://github.com/jritu4h/repo-3">
+  <a href="https://github.com/jritu4h/shopping-care">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
 </p>
