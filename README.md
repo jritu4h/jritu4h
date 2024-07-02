@@ -46,7 +46,7 @@
   <a href="https://github.com/jritu4h/Peak-And-Valley-Travel">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
-  <a href="https://github.com/jritu4h/b9a11-server-side">
+  <a href="https://github.com/jritu4h/Hockeys-Club">
        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
   </a>
   <a href="https://github.com/jritu4h/shopping-care">
