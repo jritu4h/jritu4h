@@ -5,8 +5,19 @@
 
 <!-- Text Section / About Me / Overview -->
 ## About Me
-Hi, I'm jritu4h 👋  
-I am a passionate web developer with expertise in React, Node.js, Express.js, and MongoDB. I love building web applications and learning new technologies.
+<h1 align="center">Hi 👋, I'm Habiba Jannat Ritu</h1>
+<h3 align="center">I am a passionate web developer with expertise in React, Node.js, Express.js, and MongoDB. I love building web applications and learning new technologies.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jritu4h&label=Profile%20views&color=0e75b6&style=flat" alt="jritu4h" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jritu4h" alt="jritu4h" /></a> </p>
+
+- 🌱 I’m currently learning **React.Js,Node.JS,Express.JS,MongoDB**
+
+- 💬 Ask me about **React.Js,Node.JS,Express.JS,MongoDB**
+
+- 📫 How to reach me **jritu5820@gmail.com**
+
 
 <!-- Language Used -->
 ## Languages Used
