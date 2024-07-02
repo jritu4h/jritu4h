@@ -29,7 +29,7 @@ I am a passionate web developer with expertise in React, Node.js, Express.js, an
 <!-- Pinned Repositories -->
 ## Pinned Repositories
 <p align="center">
-  <a href="https://github.com/jritu4h/Peak-And-Valley-Travell">
+  <a href="https://github.com/jritu4h/Peak-And-Valley-Travel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jritu4h&repo=repo-1&theme=radical" alt="Repo 1" />
   </a>
   <a href="https://github.com/jritu4h/repo-2">
