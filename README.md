@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/155256172?v=4"  alt="Profile Image" width="200" />
 </p>
 <p align="center">
-  <img src="https://your-image-url.com/banner-image.png" alt="Banner Image" width="800" />
+  <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" width="800" />
 </p>
 
 <!-- Text Section / About Me / Overview -->
