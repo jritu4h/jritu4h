@@ -79,7 +79,7 @@
 1. Clone the repository:
  - First, access our repository
  - First, after entering our repository, copy the URL from our repository's clone option.
- - Clone the repository by pasting the URL into your Samad and pressing enter
+ - Clone the repository by pasting the URL into your Cmd and pressing enter
    
    ```bash
    git clone https://github.com/jritu4h/shopping-care
