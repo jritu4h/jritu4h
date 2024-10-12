@@ -59,17 +59,9 @@
 
 <!-- Pinned Repositories -->
 ## Pinned Repositories
-<p align="center">
-  <a href="https://github.com/jritu4h/Peak-And-Valley-Travel">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-  </a>
-  <a href="https://github.com/jritu4h/Hockeys-Club">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-  </a>
-  <a href="https://github.com/jritu4h/shopping-care">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-  </a>
-</p>
+- InstantPay-Frontend: <a href='https://github.com/jritu4h/InstantPay-Frontend'>InstantPay-Frontend Repo</a>
+- Restore-Client: <a href='https://github.com/jritu4h/restore-client'>Restore-Client Repo</a>
+- ForOnce: <a href='https://github.com/jritu4h/shopping-care'>ForOnce Repo</a>
 
 ---
 
